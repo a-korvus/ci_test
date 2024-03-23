@@ -1,0 +1,11 @@
+fastapi[all]==0.110.0
+sqlalchemy==2.0.25
+aiosqlite==0.20.0
+pytest==8.1.1
+black==24.3.0
+isort==5.13.2
+flake8==6.1.0
+flake8-docstrings==1.7.0
+flake8-bugbear==24.2.6
+flake8-pie==0.16.0
+mypy==1.9.0
